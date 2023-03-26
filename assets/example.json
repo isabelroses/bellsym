@@ -1,0 +1,7 @@
+{
+    "move": {
+        "test/testfolder1/": "test/testfolder2/",
+        "test/test": "test/test2"
+    },
+    "symlink": {}
+}
