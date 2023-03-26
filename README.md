@@ -24,9 +24,9 @@ The `move` section will move all files from the first directory / files to the s
 ## Installation
 
 ### Arch Linux:
-You can install bellsym from the AUR: https://aur.archlinux.org/packages/bellsym/
+You can install bellsym from the AUR: https://aur.archlinux.org/packages/bellsym-git/
 
-    $ yay -S bellsym
+    $ yay -S bellsym-git
 
 ### building from source:
 
