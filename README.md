@@ -12,7 +12,7 @@ The json file should look like:
         "move": {
             "testdir/": "testdir2/",
             "test": "test2"
-    },
+        },
         "symlink": {
             "testdir3/": "testdir4/",
             "test2": "test4"
