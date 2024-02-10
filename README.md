@@ -1,3 +1,7 @@
+# THIS PROJECT IS NOW DEREPRECATED
+
+Just use nix
+
 # bellsym
 
 A simple command line tool to move all config files from a directory to another, and create symbolic links where needed.
